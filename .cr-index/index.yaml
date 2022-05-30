@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flink-kubernetes-operator:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-05-30T17:52:25.805073+05:30"
+    description: A Helm chart for the Apache Flink Kubernetes Operator
+    digest: 214c6e2e70137169fe6c9a5a0d29745b4aa433bb4f8c36a291f30d3268ee7e6f
+    name: flink-kubernetes-operator
+    type: application
+    urls:
+    - https://github.com/cmoras/flink-helm/releases/download/flink-kubernetes-operator-1.0.0/flink-kubernetes-operator-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-05-30T17:52:25.80508+05:30"
